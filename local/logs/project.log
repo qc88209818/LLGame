@@ -1,55 +1,1198 @@
-2018-10-06T08:09:40.616Z - normal: Load ~/.CocosCreator/settings.json
-2018-10-06T08:09:40.619Z - normal: checking language setting...
-2018-10-06T08:09:40.619Z - normal: Language: zh
-2018-10-06T08:09:40.962Z - success: protocol editor-framework registered
-2018-10-06T08:09:40.963Z - success: protocol app registered
-2018-10-06T08:09:40.963Z - success: protocol theme registered
-2018-10-06T08:09:40.963Z - success: protocol packages registered
-2018-10-06T08:09:40.963Z - success: protocol unpack registerred
-2018-10-06T08:09:40.963Z - success: protocol disable-commonjs registerred
-2018-10-06T08:09:41.131Z - normal: connected!
-2018-10-06T08:09:41.136Z - normal: Check project /Users/mayujiao/Documents/GitHub/LLGame
-2018-10-06T08:09:41.139Z - normal: Initializing project /Users/mayujiao/Documents/GitHub/LLGame
-2018-10-06T08:09:41.142Z - normal: Initializing Cocos2d
-2018-10-06T08:09:41.631Z - normal: Initializing Asset Database
-2018-10-06T08:09:41.657Z - success: protocol uuid registerred
-2018-10-06T08:09:41.657Z - success: protocol db registerred
-2018-10-06T08:09:41.657Z - success: protocol thumbnail registerred
-2018-10-06T08:09:41.657Z - normal: Loading editor/builtin packages
-2018-10-06T08:09:41.777Z - success: assets loaded
-2018-10-06T08:09:41.780Z - success: builder loaded
-2018-10-06T08:09:41.783Z - success: cocos-analytics loaded
-2018-10-06T08:09:41.787Z - success: console loaded
-2018-10-06T08:09:41.816Z - success: fb-instant-games loaded
-2018-10-06T08:09:41.820Z - success: hierarchy loaded
-2018-10-06T08:09:41.824Z - success: inspector loaded
-2018-10-06T08:09:41.825Z - success: keystore loaded
-2018-10-06T08:09:41.829Z - success: node-library loaded
-2018-10-06T08:09:41.830Z - success: package-asset loaded
-2018-10-06T08:09:41.832Z - success: preferences loaded
-2018-10-06T08:09:41.834Z - success: project-exporter loaded
-2018-10-06T08:09:41.847Z - success: project-importer loaded
-2018-10-06T08:09:41.849Z - success: project-settings loaded
-2018-10-06T08:09:41.853Z - success: ui-kit loaded
-2018-10-06T08:09:41.856Z - success: scene loaded
-2018-10-06T08:09:41.858Z - success: sprite-editor loaded
-2018-10-06T08:09:41.862Z - success: store loaded
-2018-10-06T08:09:41.866Z - success: timeline loaded
-2018-10-06T08:09:41.867Z - normal: Loading builtin packages
-2018-10-06T08:09:41.870Z - success: asset-db-debugger loaded
-2018-10-06T08:09:41.871Z - success: color-picker loaded
-2018-10-06T08:09:41.872Z - success: jsb-adapter loaded
-2018-10-06T08:09:41.875Z - success: package-manager loaded
-2018-10-06T08:09:41.939Z - success: qqplay-adapter loaded
-2018-10-06T08:09:41.945Z - success: sdkbox loaded
-2018-10-06T08:09:41.949Z - success: tester loaded
-2018-10-06T08:09:41.954Z - success: ui-grid loaded
-2018-10-06T08:09:41.957Z - success: ui-kit-preview-extra loaded
-2018-10-06T08:09:41.959Z - success: ui-kit-preview loaded
-2018-10-06T08:09:41.962Z - success: ui-tree loaded
-2018-10-06T08:09:41.963Z - success: weapp-adapter loaded
-2018-10-06T08:09:42.703Z - normal: Loading packages
-2018-10-06T08:09:42.708Z - normal: Watching packages
-2018-10-06T08:09:42.766Z - normal: Run Application
-2018-10-06T08:09:43.105Z - success: preview server running at http://localhost:7456
-2018-10-06T08:09:51.584Z - info: shutdown preview server
+2018-10-06T15:40:45.817Z - normal: Load ~/.CocosCreator/settings.json
+2018-10-06T15:40:45.819Z - normal: checking language setting...
+2018-10-06T15:40:45.819Z - normal: Language: zh
+2018-10-06T15:40:46.502Z - success: protocol editor-framework registered
+2018-10-06T15:40:46.502Z - success: protocol app registered
+2018-10-06T15:40:46.503Z - success: protocol theme registered
+2018-10-06T15:40:46.503Z - success: protocol packages registered
+2018-10-06T15:40:46.503Z - success: protocol unpack registerred
+2018-10-06T15:40:46.503Z - success: protocol disable-commonjs registerred
+2018-10-06T15:40:47.017Z - normal: connected!
+2018-10-06T15:40:47.019Z - normal: Check project /Users/mayujiao/Documents/GitHub/LLGame
+2018-10-06T15:40:47.022Z - normal: Initializing project /Users/mayujiao/Documents/GitHub/LLGame
+2018-10-06T15:40:47.028Z - normal: Initializing Cocos2d
+2018-10-06T15:40:47.909Z - normal: Initializing Asset Database
+2018-10-06T15:40:47.960Z - success: protocol uuid registerred
+2018-10-06T15:40:47.960Z - success: protocol db registerred
+2018-10-06T15:40:47.960Z - success: protocol thumbnail registerred
+2018-10-06T15:40:47.961Z - normal: Loading editor/builtin packages
+2018-10-06T15:40:48.144Z - success: assets loaded
+2018-10-06T15:40:48.147Z - success: builder loaded
+2018-10-06T15:40:48.150Z - success: cocos-analytics loaded
+2018-10-06T15:40:48.159Z - success: console loaded
+2018-10-06T15:40:48.193Z - success: fb-instant-games loaded
+2018-10-06T15:40:48.199Z - success: hierarchy loaded
+2018-10-06T15:40:48.205Z - success: inspector loaded
+2018-10-06T15:40:48.206Z - success: keystore loaded
+2018-10-06T15:40:48.213Z - success: node-library loaded
+2018-10-06T15:40:48.215Z - success: package-asset loaded
+2018-10-06T15:40:48.217Z - success: preferences loaded
+2018-10-06T15:40:48.221Z - success: project-exporter loaded
+2018-10-06T15:40:48.242Z - success: project-importer loaded
+2018-10-06T15:40:48.245Z - success: project-settings loaded
+2018-10-06T15:40:48.251Z - success: ui-kit loaded
+2018-10-06T15:40:48.255Z - success: scene loaded
+2018-10-06T15:40:48.258Z - success: sprite-editor loaded
+2018-10-06T15:40:48.262Z - success: store loaded
+2018-10-06T15:40:48.276Z - success: timeline loaded
+2018-10-06T15:40:48.277Z - normal: Loading builtin packages
+2018-10-06T15:40:48.287Z - success: asset-db-debugger loaded
+2018-10-06T15:40:48.289Z - success: color-picker loaded
+2018-10-06T15:40:48.292Z - success: jsb-adapter loaded
+2018-10-06T15:40:48.297Z - success: package-manager loaded
+2018-10-06T15:40:48.518Z - success: qqplay-adapter loaded
+2018-10-06T15:40:48.526Z - success: sdkbox loaded
+2018-10-06T15:40:48.532Z - success: tester loaded
+2018-10-06T15:40:48.538Z - success: ui-grid loaded
+2018-10-06T15:40:48.543Z - success: ui-kit-preview-extra loaded
+2018-10-06T15:40:48.548Z - success: ui-kit-preview loaded
+2018-10-06T15:40:48.552Z - success: ui-tree loaded
+2018-10-06T15:40:48.554Z - success: weapp-adapter loaded
+2018-10-06T15:40:49.715Z - normal: Loading packages
+2018-10-06T15:40:49.719Z - normal: Watching packages
+2018-10-06T15:40:49.792Z - normal: Run Application
+2018-10-06T15:40:50.401Z - success: preview server running at http://localhost:7456
+2018-10-06T16:12:45.148Z - warn: The Asset used by node "label" is missing. Detailed information:
+Node path: "btn1/label"
+Missing uuid: "f680c53d-61bf-41bf-9a4b-b922a8da46e3"
+
+2018-10-06T16:12:45.149Z - warn: The Asset used by node "btn1" is missing. Detailed information:
+Node path: "btn1"
+Missing uuid: "f680c53d-61bf-41bf-9a4b-b922a8da46e3"
+
+2018-10-06T16:15:08.025Z - normal: Simulator: WORKAREA WIDTH 1440.00, HEIGHT 798.00
+2018-10-06T16:15:08.026Z - normal: Simulator: FRAME SCALE = 1.00
+2018-10-06T16:15:08.147Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-10-06T16:15:08.148Z - normal: Simulator: 
+2018-10-06T16:15:08.148Z - normal: Simulator: {
+2018-10-06T16:15:08.148Z - normal: Simulator: 	build_type: DEBUG
+2018-10-06T16:15:08.149Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2018-10-06T16:15:08.149Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-10-06T16:15:08.149Z - normal: Simulator: 	gl.renderer: Intel(R) Iris(TM) Graphics 650
+2018-10-06T16:15:08.150Z - normal: Simulator: 	gl.supports_ATITC: false
+2018-10-06T16:15:08.150Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-10-06T16:15:08.150Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-10-06T16:15:08.150Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-10-06T16:15:08.150Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-10-06T16:15:08.151Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-10-06T16:15:08.151Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-10-06T16:15:08.152Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-10-06T16:15:08.152Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-10-06T16:15:08.153Z - normal: Simulator: 	compiled_with_gl_state_cache: true
+2018-10-06T16:15:08.154Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-10-06T16:15:08.154Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.36.19
+2018-10-06T16:15:08.155Z - normal: Simulator: 	gl.supports_S3TC: true
+2018-10-06T16:15:08.156Z - normal: Simulator: 	compiled_with_profiler: false
+2018-10-06T16:15:08.156Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-10-06T16:15:08.157Z - normal: Simulator: }
+2018-10-06T16:15:08.159Z - normal: Simulator: Project Config:
+2018-10-06T16:15:08.159Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-10-06T16:15:08.159Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-10-06T16:15:08.160Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-10-06T16:15:08.160Z - normal: Simulator:     frame size: 960 x 640
+2018-10-06T16:15:08.160Z - normal: Simulator:     frame scale: 1.00
+2018-10-06T16:15:08.161Z - normal: Simulator:     show console: NO
+2018-10-06T16:15:08.161Z - normal: Simulator:     write debug log: NO ()
+2018-10-06T16:15:08.161Z - normal: Simulator:     listen: 
+2018-10-06T16:15:08.162Z - normal: Simulator:     debugger: none
+2018-10-06T16:15:08.162Z - normal: Simulator:     add searching path:
+2018-10-06T16:15:08.163Z - normal: Simulator: 
+2018-10-06T16:15:08.163Z - normal: Simulator: 
+2018-10-06T16:15:08.163Z - normal: Simulator: 
+2018-10-06T16:15:08.163Z - normal: Simulator: resetDesignResolution request
+2018-10-06T16:15:08.164Z - normal: Simulator: ------------------------------------------------
+2018-10-06T16:15:08.164Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2018-10-06T16:15:08.164Z - normal: Simulator: ------------------------------------------------
+2018-10-06T16:15:08.164Z - normal: Simulator: Initializing JavaScriptCore 
+2018-10-06T16:15:08.269Z - normal: Simulator: JS: Enable batch GL commands optimization!
+2018-10-06T16:15:08.269Z - normal: Simulator: resetDesignResolution request
+2018-10-06T16:15:08.270Z - normal: Simulator: ------------------------------------------------
+2018-10-06T16:15:08.270Z - normal: Simulator: LOAD Js FILE: main.js
+2018-10-06T16:15:08.271Z - normal: Simulator: ------------------------------------------------
+2018-10-06T16:15:08.572Z - normal: Simulator: iShow!
+2018-10-06T16:15:08.749Z - normal: Simulator: glGetIntegerv: pname: 0x8b4c
+2018-10-06T16:15:08.750Z - normal: Simulator: glGetIntegerv: pname: 0x8869
+2018-10-06T16:15:08.759Z - normal: Simulator: JS: Cocos Creator v2.0.2
+2018-10-06T16:15:08.874Z - normal: Simulator: JS: 0 0
+2018-10-06T16:15:08.874Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:15:08.875Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:15:08.875Z - normal: Simulator: JS: 0 1
+2018-10-06T16:15:08.875Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:15:08.876Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:15:08.876Z - normal: Simulator: JS: 0 2
+2018-10-06T16:15:08.876Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:15:08.876Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:15:08.876Z - normal: Simulator: JS: 0 3
+2018-10-06T16:15:08.876Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:15:08.877Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:15:08.878Z - normal: Simulator: JS: 1 0
+2018-10-06T16:15:08.879Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:15:08.879Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:15:08.879Z - normal: Simulator: JS: 1 1
+2018-10-06T16:15:08.880Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:15:08.880Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:15:08.880Z - normal: Simulator: JS: 1 2
+2018-10-06T16:15:08.880Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:15:08.880Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:15:08.880Z - normal: Simulator: JS: 1 3
+2018-10-06T16:15:08.880Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:15:08.880Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:15:08.881Z - normal: Simulator: JS: 2 0
+2018-10-06T16:15:08.881Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:15:08.882Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:15:08.882Z - normal: Simulator: JS: 2 1
+2018-10-06T16:15:08.882Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:15:08.882Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:15:08.882Z - normal: Simulator: JS: 2 2
+2018-10-06T16:15:08.882Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:15:08.883Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:15:08.883Z - normal: Simulator: JS: 2 3
+2018-10-06T16:15:08.883Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:15:08.883Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:15:08.883Z - normal: Simulator: JS: 3 0
+2018-10-06T16:15:08.883Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:15:08.883Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:15:08.884Z - normal: Simulator: JS: 3 1
+2018-10-06T16:15:08.884Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:15:08.885Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:15:08.885Z - normal: Simulator: JS: 3 2
+2018-10-06T16:15:08.885Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:15:08.896Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:15:08.897Z - normal: Simulator: JS: 3 3
+2018-10-06T16:15:08.897Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:15:08.898Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:15:08.898Z - normal: Simulator: JS: 4 0
+2018-10-06T16:15:08.899Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:15:08.899Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:15:08.899Z - normal: Simulator: JS: 4 1
+2018-10-06T16:15:08.899Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:15:08.899Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:15:08.900Z - normal: Simulator: JS: 4 2
+2018-10-06T16:15:08.900Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:15:08.900Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:15:08.901Z - normal: Simulator: JS: 4 3
+2018-10-06T16:15:08.901Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:15:08.901Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:15:08.901Z - normal: Simulator: JS: 5 0
+2018-10-06T16:15:08.902Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:15:08.902Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:15:08.902Z - normal: Simulator: JS: 5 1
+2018-10-06T16:15:08.902Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:15:08.902Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:15:08.902Z - normal: Simulator: JS: 5 2
+2018-10-06T16:15:08.903Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:15:08.903Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:15:08.903Z - normal: Simulator: JS: 5 3
+2018-10-06T16:15:08.903Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:15:08.904Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:15:14.505Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2018-10-06T16:15:14.505Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 13
+2018-10-06T16:15:14.531Z - normal: Simulator: GC end ..., (Native -> JS map) count: 13
+2018-10-06T16:15:14.532Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 13
+2018-10-06T16:15:14.532Z - normal: Simulator: GC end ..., (Native -> JS map) count: 13
+2018-10-06T16:15:14.532Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 13
+2018-10-06T16:15:14.534Z - normal: Simulator: GC end ..., (Native -> JS map) count: 13
+2018-10-06T16:15:14.544Z - normal: Simulator: Destroy WebGLProgram (3) by GC
+2018-10-06T16:15:14.544Z - normal: Simulator: Destroy WebGLTexture (3) by GC
+2018-10-06T16:15:14.544Z - normal: Simulator: Destroy WebGLTexture (2) by GC
+2018-10-06T16:15:14.544Z - normal: Simulator: Destroy WebGLTexture (1) by GC
+2018-10-06T16:15:14.545Z - normal: Simulator: Destroy WebGLBuffer (4) by GC
+2018-10-06T16:15:14.545Z - normal: Simulator: Destroy WebGLBuffer (3) by GC
+2018-10-06T16:15:14.545Z - normal: Simulator: Destroy WebGLBuffer (2) by GC
+2018-10-06T16:15:14.545Z - normal: Simulator: Destroy WebGLBuffer (1) by GC
+2018-10-06T16:15:14.556Z - normal: Simulator: ScriptEngine::cleanup end ...
+2018-10-06T16:16:01.110Z - normal: Simulator: WORKAREA WIDTH 1440.00, HEIGHT 798.00
+2018-10-06T16:16:01.111Z - normal: Simulator: FRAME SCALE = 1.00
+2018-10-06T16:16:01.193Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-10-06T16:16:01.210Z - normal: Simulator: 
+2018-10-06T16:16:01.210Z - normal: Simulator: {
+2018-10-06T16:16:01.210Z - normal: Simulator: 	build_type: DEBUG
+2018-10-06T16:16:01.210Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2018-10-06T16:16:01.211Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-10-06T16:16:01.211Z - normal: Simulator: 	gl.renderer: Intel(R) Iris(TM) Graphics 650
+2018-10-06T16:16:01.211Z - normal: Simulator: 	gl.supports_ATITC: false
+2018-10-06T16:16:01.211Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-10-06T16:16:01.211Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-10-06T16:16:01.211Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-10-06T16:16:01.212Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-10-06T16:16:01.212Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-10-06T16:16:01.212Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-10-06T16:16:01.212Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-10-06T16:16:01.212Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-10-06T16:16:01.212Z - normal: Simulator: 	compiled_with_gl_state_cache: true
+2018-10-06T16:16:01.213Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-10-06T16:16:01.213Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.36.19
+2018-10-06T16:16:01.213Z - normal: Simulator: 	gl.supports_S3TC: true
+2018-10-06T16:16:01.213Z - normal: Simulator: 	compiled_with_profiler: false
+2018-10-06T16:16:01.213Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-10-06T16:16:01.214Z - normal: Simulator: }
+2018-10-06T16:16:01.260Z - normal: Simulator: Project Config:
+2018-10-06T16:16:01.261Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-10-06T16:16:01.262Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-10-06T16:16:01.262Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-10-06T16:16:01.262Z - normal: Simulator:     frame size: 960 x 640
+2018-10-06T16:16:01.263Z - normal: Simulator:     frame scale: 1.00
+2018-10-06T16:16:01.264Z - normal: Simulator:     show console: NO
+2018-10-06T16:16:01.264Z - normal: Simulator:     write debug log: NO ()
+2018-10-06T16:16:01.265Z - normal: Simulator:     listen: 
+2018-10-06T16:16:01.266Z - normal: Simulator:     debugger: none
+2018-10-06T16:16:01.266Z - normal: Simulator:     add searching path:
+2018-10-06T16:16:01.267Z - normal: Simulator: resetDesignResolution request
+2018-10-06T16:16:01.268Z - normal: Simulator: ------------------------------------------------
+2018-10-06T16:16:01.271Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2018-10-06T16:16:01.271Z - normal: Simulator: ------------------------------------------------
+2018-10-06T16:16:01.271Z - normal: Simulator: Initializing JavaScriptCore 
+2018-10-06T16:16:01.332Z - normal: Simulator: JS: Enable batch GL commands optimization!
+2018-10-06T16:16:01.332Z - normal: Simulator: resetDesignResolution request
+2018-10-06T16:16:01.332Z - normal: Simulator: ------------------------------------------------
+2018-10-06T16:16:01.333Z - normal: Simulator: LOAD Js FILE: main.js
+2018-10-06T16:16:01.333Z - normal: Simulator: ------------------------------------------------
+2018-10-06T16:16:01.660Z - normal: Simulator: iShow!
+2018-10-06T16:16:01.769Z - normal: Simulator: glGetIntegerv: pname: 0x8b4c
+2018-10-06T16:16:01.769Z - normal: Simulator: glGetIntegerv: pname: 0x8869
+2018-10-06T16:16:01.777Z - normal: Simulator: JS: Cocos Creator v2.0.2
+2018-10-06T16:16:01.873Z - normal: Simulator: JS: 0 0
+2018-10-06T16:16:01.874Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:01.874Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:01.874Z - normal: Simulator: JS: 0 1
+2018-10-06T16:16:01.876Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:01.876Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:01.877Z - normal: Simulator: JS: 0 2
+2018-10-06T16:16:01.878Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:01.878Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:01.878Z - normal: Simulator: JS: 0 3
+2018-10-06T16:16:01.879Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:01.879Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:01.879Z - normal: Simulator: JS: 1 0
+2018-10-06T16:16:01.879Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:01.879Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:01.881Z - normal: Simulator: JS: 1 1
+2018-10-06T16:16:01.881Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:01.882Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:01.882Z - normal: Simulator: JS: 1 2
+2018-10-06T16:16:01.882Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:01.882Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:01.882Z - normal: Simulator: JS: 1 3
+2018-10-06T16:16:01.882Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:01.883Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:01.883Z - normal: Simulator: JS: 2 0
+2018-10-06T16:16:01.883Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:01.883Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:01.884Z - normal: Simulator: JS: 2 1
+2018-10-06T16:16:01.884Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:01.884Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:01.884Z - normal: Simulator: JS: 2 2
+2018-10-06T16:16:01.884Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:01.884Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:01.885Z - normal: Simulator: JS: 2 3
+2018-10-06T16:16:01.885Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:01.885Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:01.885Z - normal: Simulator: JS: 3 0
+2018-10-06T16:16:01.885Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:01.886Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:01.886Z - normal: Simulator: JS: 3 1
+2018-10-06T16:16:01.886Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:01.886Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:01.887Z - normal: Simulator: JS: 3 2
+2018-10-06T16:16:01.887Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:01.888Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:01.888Z - normal: Simulator: JS: 3 3
+2018-10-06T16:16:01.888Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:01.888Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:01.888Z - normal: Simulator: JS: 4 0
+2018-10-06T16:16:01.889Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:01.889Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:01.889Z - normal: Simulator: JS: 4 1
+2018-10-06T16:16:01.889Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:01.889Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:01.889Z - normal: Simulator: JS: 4 2
+2018-10-06T16:16:01.890Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:01.890Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:01.890Z - normal: Simulator: JS: 4 3
+2018-10-06T16:16:01.890Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:01.890Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:01.890Z - normal: Simulator: JS: 5 0
+2018-10-06T16:16:01.891Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:01.891Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:01.891Z - normal: Simulator: JS: 5 1
+2018-10-06T16:16:01.891Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:01.891Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:01.891Z - normal: Simulator: JS: 5 2
+2018-10-06T16:16:01.891Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:01.891Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:01.892Z - normal: Simulator: JS: 5 3
+2018-10-06T16:16:01.892Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:01.892Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:05.485Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2018-10-06T16:16:05.485Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 13
+2018-10-06T16:16:05.495Z - normal: Simulator: GC end ..., (Native -> JS map) count: 13
+2018-10-06T16:16:05.496Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 13
+2018-10-06T16:16:05.519Z - normal: Simulator: GC end ..., (Native -> JS map) count: 13
+2018-10-06T16:16:05.520Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 13
+2018-10-06T16:16:05.520Z - normal: Simulator: GC end ..., (Native -> JS map) count: 13
+2018-10-06T16:16:05.526Z - normal: Simulator: Destroy WebGLProgram (3) by GC
+2018-10-06T16:16:05.526Z - normal: Simulator: Destroy WebGLTexture (3) by GC
+2018-10-06T16:16:05.526Z - normal: Simulator: Destroy WebGLTexture (2) by GC
+2018-10-06T16:16:05.528Z - normal: Simulator: Destroy WebGLTexture (1) by GC
+2018-10-06T16:16:05.528Z - normal: Simulator: Destroy WebGLBuffer (4) by GC
+2018-10-06T16:16:05.528Z - normal: Simulator: Destroy WebGLBuffer (3) by GC
+2018-10-06T16:16:05.528Z - normal: Simulator: Destroy WebGLBuffer (2) by GC
+2018-10-06T16:16:05.529Z - normal: Simulator: Destroy WebGLBuffer (1) by GC
+2018-10-06T16:16:05.534Z - normal: Simulator: ScriptEngine::cleanup end ...
+2018-10-06T16:16:35.081Z - normal: Simulator: WORKAREA WIDTH 1440.00, HEIGHT 798.00
+2018-10-06T16:16:35.082Z - normal: Simulator: FRAME SCALE = 1.00
+2018-10-06T16:16:35.166Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-10-06T16:16:35.183Z - normal: Simulator: 
+2018-10-06T16:16:35.183Z - normal: Simulator: {
+2018-10-06T16:16:35.183Z - normal: Simulator: 	build_type: DEBUG
+2018-10-06T16:16:35.184Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2018-10-06T16:16:35.184Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-10-06T16:16:35.184Z - normal: Simulator: 	gl.renderer: Intel(R) Iris(TM) Graphics 650
+2018-10-06T16:16:35.184Z - normal: Simulator: 	gl.supports_ATITC: false
+2018-10-06T16:16:35.184Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-10-06T16:16:35.185Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-10-06T16:16:35.185Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-10-06T16:16:35.185Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-10-06T16:16:35.185Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-10-06T16:16:35.185Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-10-06T16:16:35.186Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-10-06T16:16:35.186Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-10-06T16:16:35.186Z - normal: Simulator: 	compiled_with_gl_state_cache: true
+2018-10-06T16:16:35.186Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-10-06T16:16:35.186Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.36.19
+2018-10-06T16:16:35.186Z - normal: Simulator: 	gl.supports_S3TC: true
+2018-10-06T16:16:35.187Z - normal: Simulator: 	compiled_with_profiler: false
+2018-10-06T16:16:35.187Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-10-06T16:16:35.187Z - normal: Simulator: }
+2018-10-06T16:16:35.213Z - normal: Simulator: Project Config:
+2018-10-06T16:16:35.214Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-10-06T16:16:35.214Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-10-06T16:16:35.215Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-10-06T16:16:35.215Z - normal: Simulator:     frame size: 960 x 640
+2018-10-06T16:16:35.216Z - normal: Simulator:     frame scale: 1.00
+2018-10-06T16:16:35.216Z - normal: Simulator:     show console: NO
+2018-10-06T16:16:35.217Z - normal: Simulator:     write debug log: NO ()
+2018-10-06T16:16:35.218Z - normal: Simulator:     listen: 
+2018-10-06T16:16:35.218Z - normal: Simulator:     debugger: none
+2018-10-06T16:16:35.218Z - normal: Simulator:     add searching path:
+2018-10-06T16:16:35.218Z - normal: Simulator: resetDesignResolution request
+2018-10-06T16:16:35.218Z - normal: Simulator: ------------------------------------------------
+2018-10-06T16:16:35.221Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2018-10-06T16:16:35.223Z - normal: Simulator: ------------------------------------------------
+2018-10-06T16:16:35.224Z - normal: Simulator: Initializing JavaScriptCore 
+2018-10-06T16:16:35.266Z - normal: Simulator: JS: Enable batch GL commands optimization!
+2018-10-06T16:16:35.267Z - normal: Simulator: resetDesignResolution request
+2018-10-06T16:16:35.268Z - normal: Simulator: ------------------------------------------------
+2018-10-06T16:16:35.268Z - normal: Simulator: LOAD Js FILE: main.js
+2018-10-06T16:16:35.268Z - normal: Simulator: ------------------------------------------------
+2018-10-06T16:16:35.574Z - normal: Simulator: iShow!
+2018-10-06T16:16:35.683Z - normal: Simulator: glGetIntegerv: pname: 0x8b4c
+2018-10-06T16:16:35.684Z - normal: Simulator: glGetIntegerv: pname: 0x8869
+2018-10-06T16:16:35.694Z - normal: Simulator: JS: Cocos Creator v2.0.2
+2018-10-06T16:16:35.792Z - normal: Simulator: JS: ===>  [object Object]
+2018-10-06T16:16:35.794Z - normal: Simulator: JS: 0 0
+2018-10-06T16:16:35.794Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:35.795Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:35.796Z - normal: Simulator: JS: 0 1
+2018-10-06T16:16:35.796Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:35.796Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:35.796Z - normal: Simulator: JS: 0 2
+2018-10-06T16:16:35.796Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:35.796Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:35.797Z - normal: Simulator: JS: 0 3
+2018-10-06T16:16:35.797Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:35.797Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:35.797Z - normal: Simulator: JS: 1 0
+2018-10-06T16:16:35.797Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:35.797Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:35.797Z - normal: Simulator: JS: 1 1
+2018-10-06T16:16:35.798Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:35.798Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:35.798Z - normal: Simulator: JS: 1 2
+2018-10-06T16:16:35.798Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:35.798Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:35.798Z - normal: Simulator: JS: 1 3
+2018-10-06T16:16:35.799Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:35.799Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:35.799Z - normal: Simulator: JS: 2 0
+2018-10-06T16:16:35.799Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:35.799Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:35.799Z - normal: Simulator: JS: 2 1
+2018-10-06T16:16:35.799Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:35.800Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:35.800Z - normal: Simulator: JS: 2 2
+2018-10-06T16:16:35.800Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:35.800Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:35.800Z - normal: Simulator: JS: 2 3
+2018-10-06T16:16:35.800Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:35.801Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:35.801Z - normal: Simulator: JS: 3 0
+2018-10-06T16:16:35.801Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:35.801Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:35.801Z - normal: Simulator: JS: 3 1
+2018-10-06T16:16:35.801Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:35.801Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:35.801Z - normal: Simulator: JS: 3 2
+2018-10-06T16:16:35.802Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:35.803Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:35.803Z - normal: Simulator: JS: 3 3
+2018-10-06T16:16:35.803Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:35.804Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:35.804Z - normal: Simulator: JS: 4 0
+2018-10-06T16:16:35.804Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:35.804Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:35.804Z - normal: Simulator: JS: 4 1
+2018-10-06T16:16:35.804Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:35.805Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:35.805Z - normal: Simulator: JS: 4 2
+2018-10-06T16:16:35.805Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:35.805Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:35.805Z - normal: Simulator: JS: 4 3
+2018-10-06T16:16:35.805Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:35.805Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:35.805Z - normal: Simulator: JS: 5 0
+2018-10-06T16:16:35.805Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:35.806Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:35.806Z - normal: Simulator: JS: 5 1
+2018-10-06T16:16:35.808Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:35.808Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:35.808Z - normal: Simulator: JS: 5 2
+2018-10-06T16:16:35.808Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:35.809Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:35.809Z - normal: Simulator: JS: 5 3
+2018-10-06T16:16:35.809Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:35.809Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:44.508Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2018-10-06T16:16:44.508Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 13
+2018-10-06T16:16:44.520Z - normal: Simulator: GC end ..., (Native -> JS map) count: 13
+2018-10-06T16:16:44.521Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 13
+2018-10-06T16:16:44.527Z - normal: Simulator: GC end ..., (Native -> JS map) count: 13
+2018-10-06T16:16:44.527Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 13
+2018-10-06T16:16:44.533Z - normal: Simulator: GC end ..., (Native -> JS map) count: 13
+2018-10-06T16:16:44.555Z - normal: Simulator: Destroy WebGLProgram (3) by GC
+2018-10-06T16:16:44.556Z - normal: Simulator: Destroy WebGLTexture (3) by GC
+2018-10-06T16:16:44.556Z - normal: Simulator: Destroy WebGLTexture (2) by GC
+2018-10-06T16:16:44.557Z - normal: Simulator: Destroy WebGLTexture (1) by GC
+2018-10-06T16:16:44.557Z - normal: Simulator: Destroy WebGLBuffer (4) by GC
+2018-10-06T16:16:44.557Z - normal: Simulator: Destroy WebGLBuffer (3) by GC
+2018-10-06T16:16:44.557Z - normal: Simulator: Destroy WebGLBuffer (2) by GC
+2018-10-06T16:16:44.557Z - normal: Simulator: Destroy WebGLBuffer (1) by GC
+2018-10-06T16:16:44.558Z - normal: Simulator: ScriptEngine::cleanup end ...
+2018-10-06T16:16:47.710Z - normal: Simulator: WORKAREA WIDTH 1440.00, HEIGHT 798.00
+2018-10-06T16:16:47.710Z - normal: Simulator: FRAME SCALE = 1.00
+2018-10-06T16:16:47.809Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-10-06T16:16:47.810Z - normal: Simulator: 
+2018-10-06T16:16:47.810Z - normal: Simulator: {
+2018-10-06T16:16:47.810Z - normal: Simulator: 	build_type: DEBUG
+2018-10-06T16:16:47.810Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2018-10-06T16:16:47.811Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-10-06T16:16:47.811Z - normal: Simulator: 	gl.renderer: Intel(R) Iris(TM) Graphics 650
+2018-10-06T16:16:47.811Z - normal: Simulator: 	gl.supports_ATITC: false
+2018-10-06T16:16:47.811Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-10-06T16:16:47.811Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-10-06T16:16:47.812Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-10-06T16:16:47.812Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-10-06T16:16:47.812Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-10-06T16:16:47.812Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-10-06T16:16:47.813Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-10-06T16:16:47.813Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-10-06T16:16:47.813Z - normal: Simulator: 	compiled_with_gl_state_cache: true
+2018-10-06T16:16:47.813Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-10-06T16:16:47.813Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.36.19
+2018-10-06T16:16:47.813Z - normal: Simulator: 	gl.supports_S3TC: true
+2018-10-06T16:16:47.814Z - normal: Simulator: 	compiled_with_profiler: false
+2018-10-06T16:16:47.814Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-10-06T16:16:47.814Z - normal: Simulator: }
+2018-10-06T16:16:47.863Z - normal: Simulator: Project Config:
+2018-10-06T16:16:47.865Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-10-06T16:16:47.865Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-10-06T16:16:47.866Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-10-06T16:16:47.867Z - normal: Simulator:     frame size: 960 x 640
+2018-10-06T16:16:47.867Z - normal: Simulator:     frame scale: 1.00
+2018-10-06T16:16:47.867Z - normal: Simulator:     show console: NO
+2018-10-06T16:16:47.867Z - normal: Simulator:     write debug log: NO ()
+2018-10-06T16:16:47.868Z - normal: Simulator:     listen: 
+2018-10-06T16:16:47.868Z - normal: Simulator:     debugger: none
+2018-10-06T16:16:47.868Z - normal: Simulator:     add searching path:
+2018-10-06T16:16:47.868Z - normal: Simulator: resetDesignResolution request
+2018-10-06T16:16:47.869Z - normal: Simulator: ------------------------------------------------
+2018-10-06T16:16:47.869Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2018-10-06T16:16:47.869Z - normal: Simulator: ------------------------------------------------
+2018-10-06T16:16:47.869Z - normal: Simulator: Initializing JavaScriptCore 
+2018-10-06T16:16:47.932Z - normal: Simulator: JS: Enable batch GL commands optimization!
+2018-10-06T16:16:47.933Z - normal: Simulator: resetDesignResolution request
+2018-10-06T16:16:47.934Z - normal: Simulator: ------------------------------------------------
+2018-10-06T16:16:47.935Z - normal: Simulator: LOAD Js FILE: main.js
+2018-10-06T16:16:47.935Z - normal: Simulator: ------------------------------------------------
+2018-10-06T16:16:48.234Z - normal: Simulator: iShow!
+2018-10-06T16:16:48.346Z - normal: Simulator: glGetIntegerv: pname: 0x8b4c
+2018-10-06T16:16:48.347Z - normal: Simulator: glGetIntegerv: pname: 0x8869
+2018-10-06T16:16:48.355Z - normal: Simulator: JS: Cocos Creator v2.0.2
+2018-10-06T16:16:48.457Z - normal: Simulator: JS: ===>  [object Object]
+2018-10-06T16:16:48.458Z - normal: Simulator: JS: 0 0
+2018-10-06T16:16:48.458Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:48.458Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:48.459Z - normal: Simulator: JS: 0 1
+2018-10-06T16:16:48.459Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:48.460Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:48.460Z - normal: Simulator: JS: 0 2
+2018-10-06T16:16:48.460Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:48.460Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:48.461Z - normal: Simulator: JS: 0 3
+2018-10-06T16:16:48.461Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:48.461Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:48.461Z - normal: Simulator: JS: 1 0
+2018-10-06T16:16:48.462Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:48.462Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:48.463Z - normal: Simulator: JS: 1 1
+2018-10-06T16:16:48.463Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:48.463Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:48.464Z - normal: Simulator: JS: 1 2
+2018-10-06T16:16:48.464Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:48.464Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:48.464Z - normal: Simulator: JS: 1 3
+2018-10-06T16:16:48.464Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:48.464Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:48.465Z - normal: Simulator: JS: 2 0
+2018-10-06T16:16:48.465Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:48.466Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:48.466Z - normal: Simulator: JS: 2 1
+2018-10-06T16:16:48.466Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:48.466Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:48.466Z - normal: Simulator: JS: 2 2
+2018-10-06T16:16:48.466Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:48.467Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:48.467Z - normal: Simulator: JS: 2 3
+2018-10-06T16:16:48.467Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:48.467Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:48.467Z - normal: Simulator: JS: 3 0
+2018-10-06T16:16:48.467Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:48.468Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:48.468Z - normal: Simulator: JS: 3 1
+2018-10-06T16:16:48.468Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:48.468Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:48.468Z - normal: Simulator: JS: 3 2
+2018-10-06T16:16:48.468Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:48.468Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:48.468Z - normal: Simulator: JS: 3 3
+2018-10-06T16:16:48.469Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:48.469Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:48.469Z - normal: Simulator: JS: 4 0
+2018-10-06T16:16:48.469Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:48.469Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:48.469Z - normal: Simulator: JS: 4 1
+2018-10-06T16:16:48.469Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:48.470Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:48.470Z - normal: Simulator: JS: 4 2
+2018-10-06T16:16:48.470Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:48.470Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:48.470Z - normal: Simulator: JS: 4 3
+2018-10-06T16:16:48.470Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:48.470Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:48.471Z - normal: Simulator: JS: 5 0
+2018-10-06T16:16:48.471Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:48.471Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:48.471Z - normal: Simulator: JS: 5 1
+2018-10-06T16:16:48.471Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:48.471Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:48.471Z - normal: Simulator: JS: 5 2
+2018-10-06T16:16:48.472Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:48.472Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:16:48.472Z - normal: Simulator: JS: 5 3
+2018-10-06T16:16:48.472Z - normal: Simulator: JS: [ERROR]: The thing you want to instantiate must be an object
+2018-10-06T16:16:48.473Z - normal: Simulator: JS: [ERROR]: addChild: The child to add must be instance of cc.Node, not .
+2018-10-06T16:20:05.832Z - normal: Simulator: WORKAREA WIDTH 1440.00, HEIGHT 798.00
+2018-10-06T16:20:05.833Z - normal: Simulator: FRAME SCALE = 1.00
+2018-10-06T16:20:05.917Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-10-06T16:20:05.918Z - normal: Simulator: 
+2018-10-06T16:20:05.918Z - normal: Simulator: {
+2018-10-06T16:20:05.918Z - normal: Simulator: 	build_type: DEBUG
+2018-10-06T16:20:05.918Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2018-10-06T16:20:05.918Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-10-06T16:20:05.918Z - normal: Simulator: 	gl.renderer: Intel(R) Iris(TM) Graphics 650
+2018-10-06T16:20:05.919Z - normal: Simulator: 	gl.supports_ATITC: false
+2018-10-06T16:20:05.919Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-10-06T16:20:05.919Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-10-06T16:20:05.919Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-10-06T16:20:05.919Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-10-06T16:20:05.919Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-10-06T16:20:05.919Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-10-06T16:20:05.920Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-10-06T16:20:05.920Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-10-06T16:20:05.920Z - normal: Simulator: 	compiled_with_gl_state_cache: true
+2018-10-06T16:20:05.920Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-10-06T16:20:05.920Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.36.19
+2018-10-06T16:20:05.920Z - normal: Simulator: 	gl.supports_S3TC: true
+2018-10-06T16:20:05.921Z - normal: Simulator: 	compiled_with_profiler: false
+2018-10-06T16:20:05.921Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-10-06T16:20:05.921Z - normal: Simulator: }
+2018-10-06T16:20:05.974Z - normal: Simulator: Project Config:
+2018-10-06T16:20:05.974Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-10-06T16:20:05.974Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-10-06T16:20:05.975Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-10-06T16:20:05.975Z - normal: Simulator:     frame size: 960 x 640
+2018-10-06T16:20:05.975Z - normal: Simulator:     frame scale: 1.00
+2018-10-06T16:20:05.975Z - normal: Simulator:     show console: NO
+2018-10-06T16:20:05.975Z - normal: Simulator:     write debug log: NO ()
+2018-10-06T16:20:05.976Z - normal: Simulator:     listen: 
+2018-10-06T16:20:05.976Z - normal: Simulator:     debugger: none
+2018-10-06T16:20:05.976Z - normal: Simulator:     add searching path:
+2018-10-06T16:20:05.977Z - normal: Simulator: resetDesignResolution request
+2018-10-06T16:20:05.977Z - normal: Simulator: ------------------------------------------------
+2018-10-06T16:20:05.977Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2018-10-06T16:20:05.977Z - normal: Simulator: ------------------------------------------------
+2018-10-06T16:20:05.978Z - normal: Simulator: Initializing JavaScriptCore 
+2018-10-06T16:20:06.039Z - normal: Simulator: JS: Enable batch GL commands optimization!
+2018-10-06T16:20:06.040Z - normal: Simulator: resetDesignResolution request
+2018-10-06T16:20:06.041Z - normal: Simulator: ------------------------------------------------
+2018-10-06T16:20:06.041Z - normal: Simulator: LOAD Js FILE: main.js
+2018-10-06T16:20:06.042Z - normal: Simulator: ------------------------------------------------
+2018-10-06T16:20:06.469Z - normal: Simulator: iShow!
+2018-10-06T16:20:06.576Z - normal: Simulator: glGetIntegerv: pname: 0x8b4c
+2018-10-06T16:20:06.576Z - normal: Simulator: glGetIntegerv: pname: 0x8869
+2018-10-06T16:20:06.584Z - normal: Simulator: JS: Cocos Creator v2.0.2
+2018-10-06T16:20:06.688Z - normal: Simulator: JS: 0 0
+2018-10-06T16:20:06.692Z - normal: Simulator: JS: 0 1
+2018-10-06T16:20:06.693Z - normal: Simulator: JS: 0 2
+2018-10-06T16:20:06.697Z - normal: Simulator: JS: 0 3
+2018-10-06T16:20:06.698Z - normal: Simulator: JS: 1 0
+2018-10-06T16:20:06.700Z - normal: Simulator: JS: 1 1
+2018-10-06T16:20:06.701Z - normal: Simulator: JS: 1 2
+2018-10-06T16:20:06.702Z - normal: Simulator: JS: 1 3
+2018-10-06T16:20:06.715Z - normal: Simulator: JS: 2 0
+2018-10-06T16:20:06.715Z - normal: Simulator: JS: 2 1
+2018-10-06T16:20:06.716Z - normal: Simulator: JS: 2 2
+2018-10-06T16:20:06.716Z - normal: Simulator: JS: 2 3
+2018-10-06T16:20:06.717Z - normal: Simulator: JS: 3 0
+2018-10-06T16:20:06.721Z - normal: Simulator: JS: 3 1
+2018-10-06T16:20:06.721Z - normal: Simulator: JS: 3 2
+2018-10-06T16:20:06.721Z - normal: Simulator: JS: 3 3
+2018-10-06T16:20:06.722Z - normal: Simulator: JS: 4 0
+2018-10-06T16:20:06.723Z - normal: Simulator: JS: 4 1
+2018-10-06T16:20:06.723Z - normal: Simulator: JS: 4 2
+2018-10-06T16:20:06.723Z - normal: Simulator: JS: 4 3
+2018-10-06T16:20:06.723Z - normal: Simulator: JS: 5 0
+2018-10-06T16:20:06.725Z - normal: Simulator: JS: 5 1
+2018-10-06T16:20:06.726Z - normal: Simulator: JS: 5 2
+2018-10-06T16:20:06.726Z - normal: Simulator: JS: 5 3
+2018-10-06T16:20:11.019Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2018-10-06T16:20:11.020Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 43
+2018-10-06T16:20:11.041Z - normal: Simulator: GC end ..., (Native -> JS map) count: 43
+2018-10-06T16:20:11.041Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 43
+2018-10-06T16:20:11.041Z - normal: Simulator: GC end ..., (Native -> JS map) count: 43
+2018-10-06T16:20:11.041Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 43
+2018-10-06T16:20:11.054Z - normal: Simulator: GC end ..., (Native -> JS map) count: 43
+2018-10-06T16:20:11.070Z - normal: Simulator: Destroy WebGLFramebuffer (1) by GC
+2018-10-06T16:20:11.070Z - normal: Simulator: Destroy WebGLTexture (31) by GC
+2018-10-06T16:20:11.070Z - normal: Simulator: Destroy WebGLTexture (30) by GC
+2018-10-06T16:20:11.070Z - normal: Simulator: Destroy WebGLTexture (29) by GC
+2018-10-06T16:20:11.071Z - normal: Simulator: Destroy WebGLTexture (28) by GC
+2018-10-06T16:20:11.072Z - normal: Simulator: Destroy WebGLTexture (27) by GC
+2018-10-06T16:20:11.073Z - normal: Simulator: Destroy WebGLTexture (26) by GC
+2018-10-06T16:20:11.074Z - normal: Simulator: Destroy WebGLTexture (25) by GC
+2018-10-06T16:20:11.074Z - normal: Simulator: Destroy WebGLTexture (24) by GC
+2018-10-06T16:20:11.074Z - normal: Simulator: Destroy WebGLTexture (23) by GC
+2018-10-06T16:20:11.074Z - normal: Simulator: Destroy WebGLTexture (22) by GC
+2018-10-06T16:20:11.074Z - normal: Simulator: Destroy WebGLTexture (21) by GC
+2018-10-06T16:20:11.074Z - normal: Simulator: Destroy WebGLTexture (20) by GC
+2018-10-06T16:20:11.075Z - normal: Simulator: Destroy WebGLTexture (19) by GC
+2018-10-06T16:20:11.075Z - normal: Simulator: Destroy WebGLTexture (18) by GC
+2018-10-06T16:20:11.075Z - normal: Simulator: Destroy WebGLTexture (17) by GC
+2018-10-06T16:20:11.075Z - normal: Simulator: Destroy WebGLTexture (16) by GC
+2018-10-06T16:20:11.075Z - normal: Simulator: Destroy WebGLTexture (15) by GC
+2018-10-06T16:20:11.075Z - normal: Simulator: Destroy WebGLTexture (14) by GC
+2018-10-06T16:20:11.075Z - normal: Simulator: Destroy WebGLTexture (13) by GC
+2018-10-06T16:20:11.076Z - normal: Simulator: Destroy WebGLTexture (12) by GC
+2018-10-06T16:20:11.076Z - normal: Simulator: Destroy WebGLTexture (11) by GC
+2018-10-06T16:20:11.076Z - normal: Simulator: Destroy WebGLTexture (10) by GC
+2018-10-06T16:20:11.076Z - normal: Simulator: Destroy WebGLTexture (9) by GC
+2018-10-06T16:20:11.076Z - normal: Simulator: Destroy WebGLTexture (8) by GC
+2018-10-06T16:20:11.076Z - normal: Simulator: Destroy WebGLTexture (7) by GC
+2018-10-06T16:20:11.076Z - normal: Simulator: Destroy WebGLTexture (6) by GC
+2018-10-06T16:20:11.077Z - normal: Simulator: Destroy WebGLTexture (5) by GC
+2018-10-06T16:20:11.077Z - normal: Simulator: Destroy WebGLTexture (4) by GC
+2018-10-06T16:20:11.077Z - normal: Simulator: Destroy WebGLProgram (3) by GC
+2018-10-06T16:20:11.077Z - normal: Simulator: Destroy WebGLTexture (3) by GC
+2018-10-06T16:20:11.077Z - normal: Simulator: Destroy WebGLTexture (2) by GC
+2018-10-06T16:20:11.077Z - normal: Simulator: Destroy WebGLTexture (1) by GC
+2018-10-06T16:20:11.077Z - normal: Simulator: Destroy WebGLBuffer (4) by GC
+2018-10-06T16:20:11.078Z - normal: Simulator: Destroy WebGLBuffer (3) by GC
+2018-10-06T16:20:11.078Z - normal: Simulator: Destroy WebGLBuffer (2) by GC
+2018-10-06T16:20:11.078Z - normal: Simulator: Destroy WebGLBuffer (1) by GC
+2018-10-06T16:20:11.137Z - normal: Simulator: ScriptEngine::cleanup end ...
+2018-10-06T16:20:24.622Z - normal: Simulator: WORKAREA WIDTH 1440.00, HEIGHT 798.00
+2018-10-06T16:20:24.623Z - normal: Simulator: FRAME SCALE = 1.00
+2018-10-06T16:20:24.715Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-10-06T16:20:24.716Z - normal: Simulator: 
+2018-10-06T16:20:24.716Z - normal: Simulator: {
+2018-10-06T16:20:24.716Z - normal: Simulator: 	build_type: DEBUG
+2018-10-06T16:20:24.716Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2018-10-06T16:20:24.716Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-10-06T16:20:24.717Z - normal: Simulator: 	gl.renderer: Intel(R) Iris(TM) Graphics 650
+2018-10-06T16:20:24.717Z - normal: Simulator: 	gl.supports_ATITC: false
+2018-10-06T16:20:24.717Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-10-06T16:20:24.717Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-10-06T16:20:24.717Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-10-06T16:20:24.719Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-10-06T16:20:24.719Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-10-06T16:20:24.719Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-10-06T16:20:24.720Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-10-06T16:20:24.720Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-10-06T16:20:24.720Z - normal: Simulator: 	compiled_with_gl_state_cache: true
+2018-10-06T16:20:24.720Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-10-06T16:20:24.720Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.36.19
+2018-10-06T16:20:24.721Z - normal: Simulator: 	gl.supports_S3TC: true
+2018-10-06T16:20:24.721Z - normal: Simulator: 	compiled_with_profiler: false
+2018-10-06T16:20:24.721Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-10-06T16:20:24.721Z - normal: Simulator: }
+2018-10-06T16:20:24.741Z - normal: Simulator: Project Config:
+2018-10-06T16:20:24.741Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-10-06T16:20:24.741Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-10-06T16:20:24.741Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-10-06T16:20:24.742Z - normal: Simulator:     frame size: 960 x 640
+2018-10-06T16:20:24.742Z - normal: Simulator:     frame scale: 1.00
+2018-10-06T16:20:24.742Z - normal: Simulator:     show console: NO
+2018-10-06T16:20:24.742Z - normal: Simulator:     write debug log: NO ()
+2018-10-06T16:20:24.742Z - normal: Simulator:     listen: 
+2018-10-06T16:20:24.742Z - normal: Simulator:     debugger: none
+2018-10-06T16:20:24.743Z - normal: Simulator:     add searching path:
+2018-10-06T16:20:24.743Z - normal: Simulator: resetDesignResolution request
+2018-10-06T16:20:24.743Z - normal: Simulator: ------------------------------------------------
+2018-10-06T16:20:24.743Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2018-10-06T16:20:24.743Z - normal: Simulator: ------------------------------------------------
+2018-10-06T16:20:24.743Z - normal: Simulator: Initializing JavaScriptCore 
+2018-10-06T16:20:24.786Z - normal: Simulator: JS: Enable batch GL commands optimization!
+2018-10-06T16:20:24.787Z - normal: Simulator: resetDesignResolution request
+2018-10-06T16:20:24.787Z - normal: Simulator: ------------------------------------------------
+2018-10-06T16:20:24.787Z - normal: Simulator: LOAD Js FILE: main.js
+2018-10-06T16:20:24.787Z - normal: Simulator: ------------------------------------------------
+2018-10-06T16:20:25.104Z - normal: Simulator: iShow!
+2018-10-06T16:20:25.218Z - normal: Simulator: glGetIntegerv: pname: 0x8b4c
+2018-10-06T16:20:25.218Z - normal: Simulator: glGetIntegerv: pname: 0x8869
+2018-10-06T16:20:25.227Z - normal: Simulator: JS: Cocos Creator v2.0.2
+2018-10-06T16:20:30.055Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2018-10-06T16:20:30.055Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 43
+2018-10-06T16:20:30.066Z - normal: Simulator: GC end ..., (Native -> JS map) count: 43
+2018-10-06T16:20:30.067Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 43
+2018-10-06T16:20:30.079Z - normal: Simulator: GC end ..., (Native -> JS map) count: 43
+2018-10-06T16:20:30.079Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 43
+2018-10-06T16:20:30.085Z - normal: Simulator: GC end ..., (Native -> JS map) count: 43
+2018-10-06T16:20:30.100Z - normal: Simulator: Destroy WebGLFramebuffer (1) by GC
+2018-10-06T16:20:30.100Z - normal: Simulator: Destroy WebGLTexture (31) by GC
+2018-10-06T16:20:30.102Z - normal: Simulator: Destroy WebGLTexture (30) by GC
+2018-10-06T16:20:30.103Z - normal: Simulator: Destroy WebGLTexture (29) by GC
+2018-10-06T16:20:30.103Z - normal: Simulator: Destroy WebGLTexture (28) by GC
+2018-10-06T16:20:30.103Z - normal: Simulator: Destroy WebGLTexture (27) by GC
+2018-10-06T16:20:30.103Z - normal: Simulator: Destroy WebGLTexture (26) by GC
+2018-10-06T16:20:30.103Z - normal: Simulator: Destroy WebGLTexture (25) by GC
+2018-10-06T16:20:30.104Z - normal: Simulator: Destroy WebGLTexture (24) by GC
+2018-10-06T16:20:30.104Z - normal: Simulator: Destroy WebGLTexture (23) by GC
+2018-10-06T16:20:30.104Z - normal: Simulator: Destroy WebGLTexture (22) by GC
+2018-10-06T16:20:30.104Z - normal: Simulator: Destroy WebGLTexture (21) by GC
+2018-10-06T16:20:30.104Z - normal: Simulator: Destroy WebGLTexture (20) by GC
+2018-10-06T16:20:30.104Z - normal: Simulator: Destroy WebGLTexture (19) by GC
+2018-10-06T16:20:30.105Z - normal: Simulator: Destroy WebGLTexture (18) by GC
+2018-10-06T16:20:30.105Z - normal: Simulator: Destroy WebGLTexture (17) by GC
+2018-10-06T16:20:30.106Z - normal: Simulator: Destroy WebGLTexture (16) by GC
+2018-10-06T16:20:30.106Z - normal: Simulator: Destroy WebGLTexture (15) by GC
+2018-10-06T16:20:30.106Z - normal: Simulator: Destroy WebGLTexture (14) by GC
+2018-10-06T16:20:30.106Z - normal: Simulator: Destroy WebGLTexture (13) by GC
+2018-10-06T16:20:30.107Z - normal: Simulator: Destroy WebGLTexture (12) by GC
+2018-10-06T16:20:30.107Z - normal: Simulator: Destroy WebGLTexture (11) by GC
+2018-10-06T16:20:30.107Z - normal: Simulator: Destroy WebGLTexture (10) by GC
+2018-10-06T16:20:30.107Z - normal: Simulator: Destroy WebGLTexture (9) by GC
+2018-10-06T16:20:30.107Z - normal: Simulator: Destroy WebGLTexture (8) by GC
+2018-10-06T16:20:30.107Z - normal: Simulator: Destroy WebGLTexture (7) by GC
+2018-10-06T16:20:30.108Z - normal: Simulator: Destroy WebGLTexture (6) by GC
+2018-10-06T16:20:30.108Z - normal: Simulator: Destroy WebGLTexture (5) by GC
+2018-10-06T16:20:30.108Z - normal: Simulator: Destroy WebGLTexture (4) by GC
+2018-10-06T16:20:30.108Z - normal: Simulator: Destroy WebGLProgram (3) by GC
+2018-10-06T16:20:30.108Z - normal: Simulator: Destroy WebGLTexture (3) by GC
+2018-10-06T16:20:30.108Z - normal: Simulator: Destroy WebGLTexture (2) by GC
+2018-10-06T16:20:30.109Z - normal: Simulator: Destroy WebGLTexture (1) by GC
+2018-10-06T16:20:30.109Z - normal: Simulator: Destroy WebGLBuffer (4) by GC
+2018-10-06T16:20:30.109Z - normal: Simulator: Destroy WebGLBuffer (3) by GC
+2018-10-06T16:20:30.109Z - normal: Simulator: Destroy WebGLBuffer (2) by GC
+2018-10-06T16:20:30.109Z - normal: Simulator: Destroy WebGLBuffer (1) by GC
+2018-10-06T16:20:30.158Z - normal: Simulator: ScriptEngine::cleanup end ...
+2018-10-06T16:21:04.474Z - normal: Simulator: WORKAREA WIDTH 1440.00, HEIGHT 798.00
+2018-10-06T16:21:04.474Z - normal: Simulator: FRAME SCALE = 1.00
+2018-10-06T16:21:04.552Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-10-06T16:21:04.570Z - normal: Simulator: 
+2018-10-06T16:21:04.570Z - normal: Simulator: {
+2018-10-06T16:21:04.570Z - normal: Simulator: 	build_type: DEBUG
+2018-10-06T16:21:04.570Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2018-10-06T16:21:04.571Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-10-06T16:21:04.571Z - normal: Simulator: 	gl.renderer: Intel(R) Iris(TM) Graphics 650
+2018-10-06T16:21:04.571Z - normal: Simulator: 	gl.supports_ATITC: false
+2018-10-06T16:21:04.571Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-10-06T16:21:04.571Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-10-06T16:21:04.572Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-10-06T16:21:04.572Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-10-06T16:21:04.572Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-10-06T16:21:04.572Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-10-06T16:21:04.572Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-10-06T16:21:04.573Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-10-06T16:21:04.573Z - normal: Simulator: 	compiled_with_gl_state_cache: true
+2018-10-06T16:21:04.573Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-10-06T16:21:04.573Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.36.19
+2018-10-06T16:21:04.573Z - normal: Simulator: 	gl.supports_S3TC: true
+2018-10-06T16:21:04.573Z - normal: Simulator: 	compiled_with_profiler: false
+2018-10-06T16:21:04.574Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-10-06T16:21:04.574Z - normal: Simulator: }
+2018-10-06T16:21:04.593Z - normal: Simulator: Project Config:
+2018-10-06T16:21:04.594Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-10-06T16:21:04.594Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-10-06T16:21:04.594Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-10-06T16:21:04.594Z - normal: Simulator:     frame size: 960 x 640
+2018-10-06T16:21:04.594Z - normal: Simulator:     frame scale: 1.00
+2018-10-06T16:21:04.595Z - normal: Simulator:     show console: NO
+2018-10-06T16:21:04.595Z - normal: Simulator:     write debug log: NO ()
+2018-10-06T16:21:04.595Z - normal: Simulator:     listen: 
+2018-10-06T16:21:04.595Z - normal: Simulator:     debugger: none
+2018-10-06T16:21:04.596Z - normal: Simulator:     add searching path:
+2018-10-06T16:21:04.596Z - normal: Simulator: resetDesignResolution request
+2018-10-06T16:21:04.596Z - normal: Simulator: ------------------------------------------------
+2018-10-06T16:21:04.596Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2018-10-06T16:21:04.596Z - normal: Simulator: ------------------------------------------------
+2018-10-06T16:21:04.597Z - normal: Simulator: Initializing JavaScriptCore 
+2018-10-06T16:21:04.640Z - normal: Simulator: JS: Enable batch GL commands optimization!
+2018-10-06T16:21:04.641Z - normal: Simulator: resetDesignResolution request
+2018-10-06T16:21:04.641Z - normal: Simulator: ------------------------------------------------
+2018-10-06T16:21:04.641Z - normal: Simulator: LOAD Js FILE: main.js
+2018-10-06T16:21:04.642Z - normal: Simulator: ------------------------------------------------
+2018-10-06T16:21:04.933Z - normal: Simulator: iShow!
+2018-10-06T16:21:05.038Z - normal: Simulator: glGetIntegerv: pname: 0x8b4c
+2018-10-06T16:21:05.038Z - normal: Simulator: glGetIntegerv: pname: 0x8869
+2018-10-06T16:21:05.052Z - normal: Simulator: JS: Cocos Creator v2.0.2
+2018-10-06T16:21:07.653Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2018-10-06T16:21:07.653Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 43
+2018-10-06T16:21:07.663Z - normal: Simulator: GC end ..., (Native -> JS map) count: 43
+2018-10-06T16:21:07.663Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 43
+2018-10-06T16:21:07.675Z - normal: Simulator: GC end ..., (Native -> JS map) count: 43
+2018-10-06T16:21:07.675Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 43
+2018-10-06T16:21:07.687Z - normal: Simulator: GC end ..., (Native -> JS map) count: 43
+2018-10-06T16:21:07.701Z - normal: Simulator: Destroy WebGLFramebuffer (1) by GC
+2018-10-06T16:21:07.702Z - normal: Simulator: Destroy WebGLTexture (31) by GC
+2018-10-06T16:21:07.702Z - normal: Simulator: Destroy WebGLTexture (30) by GC
+2018-10-06T16:21:07.702Z - normal: Simulator: Destroy WebGLTexture (29) by GC
+2018-10-06T16:21:07.702Z - normal: Simulator: Destroy WebGLTexture (28) by GC
+2018-10-06T16:21:07.702Z - normal: Simulator: Destroy WebGLTexture (27) by GC
+2018-10-06T16:21:07.703Z - normal: Simulator: Destroy WebGLTexture (26) by GC
+2018-10-06T16:21:07.703Z - normal: Simulator: Destroy WebGLTexture (25) by GC
+2018-10-06T16:21:07.704Z - normal: Simulator: Destroy WebGLTexture (24) by GC
+2018-10-06T16:21:07.705Z - normal: Simulator: Destroy WebGLTexture (23) by GC
+2018-10-06T16:21:07.705Z - normal: Simulator: Destroy WebGLTexture (22) by GC
+2018-10-06T16:21:07.705Z - normal: Simulator: Destroy WebGLTexture (21) by GC
+2018-10-06T16:21:07.705Z - normal: Simulator: Destroy WebGLTexture (20) by GC
+2018-10-06T16:21:07.706Z - normal: Simulator: Destroy WebGLTexture (19) by GC
+2018-10-06T16:21:07.706Z - normal: Simulator: Destroy WebGLTexture (18) by GC
+2018-10-06T16:21:07.706Z - normal: Simulator: Destroy WebGLTexture (17) by GC
+2018-10-06T16:21:07.706Z - normal: Simulator: Destroy WebGLTexture (16) by GC
+2018-10-06T16:21:07.706Z - normal: Simulator: Destroy WebGLTexture (15) by GC
+2018-10-06T16:21:07.707Z - normal: Simulator: Destroy WebGLTexture (14) by GC
+2018-10-06T16:21:07.707Z - normal: Simulator: Destroy WebGLTexture (13) by GC
+2018-10-06T16:21:07.707Z - normal: Simulator: Destroy WebGLTexture (12) by GC
+2018-10-06T16:21:07.707Z - normal: Simulator: Destroy WebGLTexture (11) by GC
+2018-10-06T16:21:07.707Z - normal: Simulator: Destroy WebGLTexture (10) by GC
+2018-10-06T16:21:07.707Z - normal: Simulator: Destroy WebGLTexture (9) by GC
+2018-10-06T16:21:07.708Z - normal: Simulator: Destroy WebGLTexture (8) by GC
+2018-10-06T16:21:07.708Z - normal: Simulator: Destroy WebGLTexture (7) by GC
+2018-10-06T16:21:07.708Z - normal: Simulator: Destroy WebGLTexture (6) by GC
+2018-10-06T16:21:07.708Z - normal: Simulator: Destroy WebGLTexture (5) by GC
+2018-10-06T16:21:07.708Z - normal: Simulator: Destroy WebGLTexture (4) by GC
+2018-10-06T16:21:07.708Z - normal: Simulator: Destroy WebGLProgram (3) by GC
+2018-10-06T16:21:07.708Z - normal: Simulator: Destroy WebGLTexture (3) by GC
+2018-10-06T16:21:07.709Z - normal: Simulator: Destroy WebGLTexture (1) by GC
+2018-10-06T16:21:07.709Z - normal: Simulator: Destroy WebGLBuffer (4) by GC
+2018-10-06T16:21:07.709Z - normal: Simulator: Destroy WebGLBuffer (3) by GC
+2018-10-06T16:21:07.709Z - normal: Simulator: Destroy WebGLBuffer (2) by GC
+2018-10-06T16:21:07.709Z - normal: Simulator: Destroy WebGLBuffer (1) by GC
+2018-10-06T16:21:07.709Z - normal: Simulator: Destroy WebGLTexture (2) by GC
+2018-10-06T16:21:07.719Z - normal: Simulator: ScriptEngine::cleanup end ...
+2018-10-06T16:21:26.931Z - normal: Simulator: WORKAREA WIDTH 1440.00, HEIGHT 798.00
+2018-10-06T16:21:26.931Z - normal: Simulator: FRAME SCALE = 1.00
+2018-10-06T16:21:27.030Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-10-06T16:21:27.030Z - normal: Simulator: 
+2018-10-06T16:21:27.030Z - normal: Simulator: {
+2018-10-06T16:21:27.030Z - normal: Simulator: 	build_type: DEBUG
+2018-10-06T16:21:27.031Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2018-10-06T16:21:27.031Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-10-06T16:21:27.031Z - normal: Simulator: 	gl.renderer: Intel(R) Iris(TM) Graphics 650
+2018-10-06T16:21:27.031Z - normal: Simulator: 	gl.supports_ATITC: false
+2018-10-06T16:21:27.031Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-10-06T16:21:27.031Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-10-06T16:21:27.032Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-10-06T16:21:27.032Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-10-06T16:21:27.032Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-10-06T16:21:27.032Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-10-06T16:21:27.032Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-10-06T16:21:27.033Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-10-06T16:21:27.033Z - normal: Simulator: 	compiled_with_gl_state_cache: true
+2018-10-06T16:21:27.033Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-10-06T16:21:27.033Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.36.19
+2018-10-06T16:21:27.033Z - normal: Simulator: 	gl.supports_S3TC: true
+2018-10-06T16:21:27.034Z - normal: Simulator: 	compiled_with_profiler: false
+2018-10-06T16:21:27.034Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-10-06T16:21:27.034Z - normal: Simulator: }
+2018-10-06T16:21:27.072Z - normal: Simulator: Project Config:
+2018-10-06T16:21:27.073Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-10-06T16:21:27.073Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-10-06T16:21:27.073Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-10-06T16:21:27.073Z - normal: Simulator:     frame size: 960 x 640
+2018-10-06T16:21:27.074Z - normal: Simulator:     frame scale: 1.00
+2018-10-06T16:21:27.074Z - normal: Simulator:     show console: NO
+2018-10-06T16:21:27.074Z - normal: Simulator:     write debug log: NO ()
+2018-10-06T16:21:27.074Z - normal: Simulator:     listen: 
+2018-10-06T16:21:27.074Z - normal: Simulator:     debugger: none
+2018-10-06T16:21:27.074Z - normal: Simulator:     add searching path:
+2018-10-06T16:21:27.075Z - normal: Simulator: resetDesignResolution request
+2018-10-06T16:21:27.076Z - normal: Simulator: ------------------------------------------------
+2018-10-06T16:21:27.076Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2018-10-06T16:21:27.076Z - normal: Simulator: ------------------------------------------------
+2018-10-06T16:21:27.076Z - normal: Simulator: Initializing JavaScriptCore 
+2018-10-06T16:21:27.107Z - normal: Simulator: JS: Enable batch GL commands optimization!
+2018-10-06T16:21:27.108Z - normal: Simulator: resetDesignResolution request
+2018-10-06T16:21:27.108Z - normal: Simulator: ------------------------------------------------
+2018-10-06T16:21:27.108Z - normal: Simulator: LOAD Js FILE: main.js
+2018-10-06T16:21:27.109Z - normal: Simulator: ------------------------------------------------
+2018-10-06T16:21:27.404Z - normal: Simulator: iShow!
+2018-10-06T16:21:27.509Z - normal: Simulator: glGetIntegerv: pname: 0x8b4c
+2018-10-06T16:21:27.510Z - normal: Simulator: glGetIntegerv: pname: 0x8869
+2018-10-06T16:21:27.520Z - normal: Simulator: JS: Cocos Creator v2.0.2
+2018-10-06T16:21:40.814Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2018-10-06T16:21:40.814Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 43
+2018-10-06T16:21:40.824Z - normal: Simulator: GC end ..., (Native -> JS map) count: 43
+2018-10-06T16:21:40.825Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 43
+2018-10-06T16:21:40.834Z - normal: Simulator: GC end ..., (Native -> JS map) count: 43
+2018-10-06T16:21:40.835Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 43
+2018-10-06T16:21:40.846Z - normal: Simulator: GC end ..., (Native -> JS map) count: 43
+2018-10-06T16:21:40.856Z - normal: Simulator: Destroy WebGLFramebuffer (1) by GC
+2018-10-06T16:21:40.857Z - normal: Simulator: Destroy WebGLTexture (31) by GC
+2018-10-06T16:21:40.857Z - normal: Simulator: Destroy WebGLTexture (30) by GC
+2018-10-06T16:21:40.857Z - normal: Simulator: Destroy WebGLTexture (29) by GC
+2018-10-06T16:21:40.857Z - normal: Simulator: Destroy WebGLTexture (28) by GC
+2018-10-06T16:21:40.858Z - normal: Simulator: Destroy WebGLTexture (27) by GC
+2018-10-06T16:21:40.858Z - normal: Simulator: Destroy WebGLTexture (26) by GC
+2018-10-06T16:21:40.858Z - normal: Simulator: Destroy WebGLTexture (25) by GC
+2018-10-06T16:21:40.858Z - normal: Simulator: Destroy WebGLTexture (24) by GC
+2018-10-06T16:21:40.859Z - normal: Simulator: Destroy WebGLTexture (23) by GC
+2018-10-06T16:21:40.859Z - normal: Simulator: Destroy WebGLTexture (22) by GC
+2018-10-06T16:21:40.859Z - normal: Simulator: Destroy WebGLTexture (21) by GC
+2018-10-06T16:21:40.859Z - normal: Simulator: Destroy WebGLTexture (20) by GC
+2018-10-06T16:21:40.860Z - normal: Simulator: Destroy WebGLTexture (19) by GC
+2018-10-06T16:21:40.860Z - normal: Simulator: Destroy WebGLTexture (18) by GC
+2018-10-06T16:21:40.860Z - normal: Simulator: Destroy WebGLTexture (17) by GC
+2018-10-06T16:21:40.861Z - normal: Simulator: Destroy WebGLTexture (16) by GC
+2018-10-06T16:21:40.861Z - normal: Simulator: Destroy WebGLTexture (15) by GC
+2018-10-06T16:21:40.861Z - normal: Simulator: Destroy WebGLTexture (14) by GC
+2018-10-06T16:21:40.861Z - normal: Simulator: Destroy WebGLTexture (13) by GC
+2018-10-06T16:21:40.862Z - normal: Simulator: Destroy WebGLTexture (12) by GC
+2018-10-06T16:21:40.862Z - normal: Simulator: Destroy WebGLTexture (11) by GC
+2018-10-06T16:21:40.862Z - normal: Simulator: Destroy WebGLTexture (10) by GC
+2018-10-06T16:21:40.862Z - normal: Simulator: Destroy WebGLTexture (9) by GC
+2018-10-06T16:21:40.862Z - normal: Simulator: Destroy WebGLTexture (8) by GC
+2018-10-06T16:21:40.862Z - normal: Simulator: Destroy WebGLTexture (7) by GC
+2018-10-06T16:21:40.863Z - normal: Simulator: Destroy WebGLTexture (6) by GC
+2018-10-06T16:21:40.863Z - normal: Simulator: Destroy WebGLTexture (5) by GC
+2018-10-06T16:21:40.863Z - normal: Simulator: Destroy WebGLTexture (4) by GC
+2018-10-06T16:21:40.863Z - normal: Simulator: Destroy WebGLProgram (3) by GC
+2018-10-06T16:21:40.863Z - normal: Simulator: Destroy WebGLTexture (3) by GC
+2018-10-06T16:21:40.863Z - normal: Simulator: Destroy WebGLTexture (2) by GC
+2018-10-06T16:21:40.864Z - normal: Simulator: Destroy WebGLTexture (1) by GC
+2018-10-06T16:21:40.865Z - normal: Simulator: Destroy WebGLBuffer (4) by GC
+2018-10-06T16:21:40.865Z - normal: Simulator: Destroy WebGLBuffer (3) by GC
+2018-10-06T16:21:40.865Z - normal: Simulator: Destroy WebGLBuffer (2) by GC
+2018-10-06T16:21:40.865Z - normal: Simulator: Destroy WebGLBuffer (1) by GC
+2018-10-06T16:21:40.919Z - normal: Simulator: ScriptEngine::cleanup end ...
+2018-10-06T16:21:43.114Z - normal: Simulator: WORKAREA WIDTH 1440.00, HEIGHT 798.00
+2018-10-06T16:21:43.114Z - normal: Simulator: FRAME SCALE = 1.00
+2018-10-06T16:21:43.206Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-10-06T16:21:43.207Z - normal: Simulator: 
+2018-10-06T16:21:43.207Z - normal: Simulator: {
+2018-10-06T16:21:43.208Z - normal: Simulator: 	build_type: DEBUG
+2018-10-06T16:21:43.208Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2018-10-06T16:21:43.208Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-10-06T16:21:43.208Z - normal: Simulator: 	gl.renderer: Intel(R) Iris(TM) Graphics 650
+2018-10-06T16:21:43.208Z - normal: Simulator: 	gl.supports_ATITC: false
+2018-10-06T16:21:43.208Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-10-06T16:21:43.209Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-10-06T16:21:43.209Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-10-06T16:21:43.209Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-10-06T16:21:43.209Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-10-06T16:21:43.209Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-10-06T16:21:43.210Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-10-06T16:21:43.210Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-10-06T16:21:43.210Z - normal: Simulator: 	compiled_with_gl_state_cache: true
+2018-10-06T16:21:43.210Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-10-06T16:21:43.211Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.36.19
+2018-10-06T16:21:43.211Z - normal: Simulator: 	gl.supports_S3TC: true
+2018-10-06T16:21:43.211Z - normal: Simulator: 	compiled_with_profiler: false
+2018-10-06T16:21:43.211Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-10-06T16:21:43.211Z - normal: Simulator: }
+2018-10-06T16:21:43.230Z - normal: Simulator: Project Config:
+2018-10-06T16:21:43.230Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-10-06T16:21:43.231Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-10-06T16:21:43.231Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-10-06T16:21:43.231Z - normal: Simulator:     frame size: 960 x 640
+2018-10-06T16:21:43.232Z - normal: Simulator:     frame scale: 1.00
+2018-10-06T16:21:43.232Z - normal: Simulator:     show console: NO
+2018-10-06T16:21:43.232Z - normal: Simulator:     write debug log: NO ()
+2018-10-06T16:21:43.232Z - normal: Simulator:     listen: 
+2018-10-06T16:21:43.232Z - normal: Simulator:     debugger: none
+2018-10-06T16:21:43.232Z - normal: Simulator:     add searching path:
+2018-10-06T16:21:43.233Z - normal: Simulator: resetDesignResolution request
+2018-10-06T16:21:43.233Z - normal: Simulator: ------------------------------------------------
+2018-10-06T16:21:43.233Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2018-10-06T16:21:43.233Z - normal: Simulator: ------------------------------------------------
+2018-10-06T16:21:43.233Z - normal: Simulator: Initializing JavaScriptCore 
+2018-10-06T16:21:43.280Z - normal: Simulator: JS: Enable batch GL commands optimization!
+2018-10-06T16:21:43.282Z - normal: Simulator: resetDesignResolution request
+2018-10-06T16:21:43.282Z - normal: Simulator: ------------------------------------------------
+2018-10-06T16:21:43.282Z - normal: Simulator: LOAD Js FILE: main.js
+2018-10-06T16:21:43.282Z - normal: Simulator: ------------------------------------------------
+2018-10-06T16:21:43.578Z - normal: Simulator: iShow!
+2018-10-06T16:21:43.683Z - normal: Simulator: glGetIntegerv: pname: 0x8b4c
+2018-10-06T16:21:43.683Z - normal: Simulator: glGetIntegerv: pname: 0x8869
+2018-10-06T16:21:43.690Z - normal: Simulator: JS: Cocos Creator v2.0.2
+2018-10-06T16:21:45.255Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2018-10-06T16:21:45.256Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 43
+2018-10-06T16:21:45.266Z - normal: Simulator: GC end ..., (Native -> JS map) count: 43
+2018-10-06T16:21:45.266Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 43
+2018-10-06T16:21:45.284Z - normal: Simulator: GC end ..., (Native -> JS map) count: 43
+2018-10-06T16:21:45.286Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 43
+2018-10-06T16:21:45.290Z - normal: Simulator: GC end ..., (Native -> JS map) count: 43
+2018-10-06T16:21:45.304Z - normal: Simulator: Destroy WebGLFramebuffer (1) by GC
+2018-10-06T16:21:45.304Z - normal: Simulator: Destroy WebGLTexture (31) by GC
+2018-10-06T16:21:45.305Z - normal: Simulator: Destroy WebGLTexture (30) by GC
+2018-10-06T16:21:45.305Z - normal: Simulator: Destroy WebGLTexture (29) by GC
+2018-10-06T16:21:45.305Z - normal: Simulator: Destroy WebGLTexture (28) by GC
+2018-10-06T16:21:45.306Z - normal: Simulator: Destroy WebGLTexture (27) by GC
+2018-10-06T16:21:45.306Z - normal: Simulator: Destroy WebGLTexture (26) by GC
+2018-10-06T16:21:45.306Z - normal: Simulator: Destroy WebGLTexture (25) by GC
+2018-10-06T16:21:45.307Z - normal: Simulator: Destroy WebGLTexture (24) by GC
+2018-10-06T16:21:45.308Z - normal: Simulator: Destroy WebGLTexture (23) by GC
+2018-10-06T16:21:45.308Z - normal: Simulator: Destroy WebGLTexture (22) by GC
+2018-10-06T16:21:45.309Z - normal: Simulator: Destroy WebGLTexture (21) by GC
+2018-10-06T16:21:45.309Z - normal: Simulator: Destroy WebGLTexture (20) by GC
+2018-10-06T16:21:45.309Z - normal: Simulator: Destroy WebGLTexture (19) by GC
+2018-10-06T16:21:45.309Z - normal: Simulator: Destroy WebGLTexture (18) by GC
+2018-10-06T16:21:45.309Z - normal: Simulator: Destroy WebGLTexture (17) by GC
+2018-10-06T16:21:45.309Z - normal: Simulator: Destroy WebGLTexture (16) by GC
+2018-10-06T16:21:45.310Z - normal: Simulator: Destroy WebGLTexture (15) by GC
+2018-10-06T16:21:45.310Z - normal: Simulator: Destroy WebGLTexture (14) by GC
+2018-10-06T16:21:45.311Z - normal: Simulator: Destroy WebGLTexture (13) by GC
+2018-10-06T16:21:45.311Z - normal: Simulator: Destroy WebGLTexture (12) by GC
+2018-10-06T16:21:45.311Z - normal: Simulator: Destroy WebGLTexture (11) by GC
+2018-10-06T16:21:45.312Z - normal: Simulator: Destroy WebGLTexture (10) by GC
+2018-10-06T16:21:45.312Z - normal: Simulator: Destroy WebGLTexture (9) by GC
+2018-10-06T16:21:45.312Z - normal: Simulator: Destroy WebGLTexture (8) by GC
+2018-10-06T16:21:45.313Z - normal: Simulator: Destroy WebGLTexture (7) by GC
+2018-10-06T16:21:45.313Z - normal: Simulator: Destroy WebGLTexture (6) by GC
+2018-10-06T16:21:45.313Z - normal: Simulator: Destroy WebGLTexture (5) by GC
+2018-10-06T16:21:45.314Z - normal: Simulator: Destroy WebGLTexture (4) by GC
+2018-10-06T16:21:45.314Z - normal: Simulator: Destroy WebGLProgram (3) by GC
+2018-10-06T16:21:45.315Z - normal: Simulator: Destroy WebGLTexture (3) by GC
+2018-10-06T16:21:45.315Z - normal: Simulator: Destroy WebGLTexture (2) by GC
+2018-10-06T16:21:45.315Z - normal: Simulator: Destroy WebGLTexture (1) by GC
+2018-10-06T16:21:45.315Z - normal: Simulator: Destroy WebGLBuffer (4) by GC
+2018-10-06T16:21:45.316Z - normal: Simulator: Destroy WebGLBuffer (3) by GC
+2018-10-06T16:21:45.316Z - normal: Simulator: Destroy WebGLBuffer (2) by GC
+2018-10-06T16:21:45.316Z - normal: Simulator: Destroy WebGLBuffer (1) by GC
+2018-10-06T16:21:45.377Z - normal: Simulator: ScriptEngine::cleanup end ...
+2018-10-06T16:22:06.434Z - normal: Simulator: WORKAREA WIDTH 1440.00, HEIGHT 798.00
+2018-10-06T16:22:06.435Z - normal: Simulator: FRAME SCALE = 1.00
+2018-10-06T16:22:06.515Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-10-06T16:22:06.516Z - normal: Simulator: 
+2018-10-06T16:22:06.516Z - normal: Simulator: {
+2018-10-06T16:22:06.516Z - normal: Simulator: 	build_type: DEBUG
+2018-10-06T16:22:06.516Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2018-10-06T16:22:06.517Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-10-06T16:22:06.517Z - normal: Simulator: 	gl.renderer: Intel(R) Iris(TM) Graphics 650
+2018-10-06T16:22:06.517Z - normal: Simulator: 	gl.supports_ATITC: false
+2018-10-06T16:22:06.517Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-10-06T16:22:06.517Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-10-06T16:22:06.517Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-10-06T16:22:06.518Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-10-06T16:22:06.518Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-10-06T16:22:06.518Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-10-06T16:22:06.518Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-10-06T16:22:06.518Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-10-06T16:22:06.518Z - normal: Simulator: 	compiled_with_gl_state_cache: true
+2018-10-06T16:22:06.519Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-10-06T16:22:06.519Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.36.19
+2018-10-06T16:22:06.519Z - normal: Simulator: 	gl.supports_S3TC: true
+2018-10-06T16:22:06.519Z - normal: Simulator: 	compiled_with_profiler: false
+2018-10-06T16:22:06.519Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-10-06T16:22:06.520Z - normal: Simulator: }
+2018-10-06T16:22:06.553Z - normal: Simulator: Project Config:
+2018-10-06T16:22:06.553Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-10-06T16:22:06.554Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-10-06T16:22:06.555Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-10-06T16:22:06.555Z - normal: Simulator:     frame size: 960 x 640
+2018-10-06T16:22:06.556Z - normal: Simulator:     frame scale: 1.00
+2018-10-06T16:22:06.556Z - normal: Simulator:     show console: NO
+2018-10-06T16:22:06.556Z - normal: Simulator:     write debug log: NO ()
+2018-10-06T16:22:06.556Z - normal: Simulator:     listen: 
+2018-10-06T16:22:06.557Z - normal: Simulator:     debugger: none
+2018-10-06T16:22:06.557Z - normal: Simulator:     add searching path:
+2018-10-06T16:22:06.562Z - normal: Simulator: resetDesignResolution request
+2018-10-06T16:22:06.563Z - normal: Simulator: ------------------------------------------------
+2018-10-06T16:22:06.563Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2018-10-06T16:22:06.563Z - normal: Simulator: ------------------------------------------------
+2018-10-06T16:22:06.564Z - normal: Simulator: Initializing JavaScriptCore 
+2018-10-06T16:22:06.611Z - normal: Simulator: JS: Enable batch GL commands optimization!
+2018-10-06T16:22:06.612Z - normal: Simulator: resetDesignResolution request
+2018-10-06T16:22:06.612Z - normal: Simulator: ------------------------------------------------
+2018-10-06T16:22:06.613Z - normal: Simulator: LOAD Js FILE: main.js
+2018-10-06T16:22:06.613Z - normal: Simulator: ------------------------------------------------
+2018-10-06T16:22:06.902Z - normal: Simulator: iShow!
+2018-10-06T16:22:07.007Z - normal: Simulator: glGetIntegerv: pname: 0x8b4c
+2018-10-06T16:22:07.007Z - normal: Simulator: glGetIntegerv: pname: 0x8869
+2018-10-06T16:22:07.015Z - normal: Simulator: JS: Cocos Creator v2.0.2
+2018-10-06T16:22:36.065Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2018-10-06T16:22:36.066Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 43
+2018-10-06T16:22:36.073Z - normal: Simulator: GC end ..., (Native -> JS map) count: 43
+2018-10-06T16:22:36.074Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 43
+2018-10-06T16:22:36.083Z - normal: Simulator: GC end ..., (Native -> JS map) count: 43
+2018-10-06T16:22:36.083Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 43
+2018-10-06T16:22:36.089Z - normal: Simulator: GC end ..., (Native -> JS map) count: 43
+2018-10-06T16:22:36.103Z - normal: Simulator: Destroy WebGLFramebuffer (1) by GC
+2018-10-06T16:22:36.103Z - normal: Simulator: Destroy WebGLTexture (31) by GC
+2018-10-06T16:22:36.103Z - normal: Simulator: Destroy WebGLTexture (30) by GC
+2018-10-06T16:22:36.103Z - normal: Simulator: Destroy WebGLTexture (29) by GC
+2018-10-06T16:22:36.104Z - normal: Simulator: Destroy WebGLTexture (28) by GC
+2018-10-06T16:22:36.104Z - normal: Simulator: Destroy WebGLTexture (27) by GC
+2018-10-06T16:22:36.104Z - normal: Simulator: Destroy WebGLTexture (26) by GC
+2018-10-06T16:22:36.104Z - normal: Simulator: Destroy WebGLTexture (25) by GC
+2018-10-06T16:22:36.104Z - normal: Simulator: Destroy WebGLTexture (24) by GC
+2018-10-06T16:22:36.106Z - normal: Simulator: Destroy WebGLTexture (23) by GC
+2018-10-06T16:22:36.107Z - normal: Simulator: Destroy WebGLTexture (22) by GC
+2018-10-06T16:22:36.107Z - normal: Simulator: Destroy WebGLTexture (21) by GC
+2018-10-06T16:22:36.107Z - normal: Simulator: Destroy WebGLTexture (20) by GC
+2018-10-06T16:22:36.107Z - normal: Simulator: Destroy WebGLTexture (19) by GC
+2018-10-06T16:22:36.107Z - normal: Simulator: Destroy WebGLTexture (18) by GC
+2018-10-06T16:22:36.107Z - normal: Simulator: Destroy WebGLTexture (17) by GC
+2018-10-06T16:22:36.107Z - normal: Simulator: Destroy WebGLTexture (16) by GC
+2018-10-06T16:22:36.108Z - normal: Simulator: Destroy WebGLTexture (15) by GC
+2018-10-06T16:22:36.108Z - normal: Simulator: Destroy WebGLTexture (14) by GC
+2018-10-06T16:22:36.108Z - normal: Simulator: Destroy WebGLTexture (13) by GC
+2018-10-06T16:22:36.108Z - normal: Simulator: Destroy WebGLTexture (12) by GC
+2018-10-06T16:22:36.108Z - normal: Simulator: Destroy WebGLTexture (11) by GC
+2018-10-06T16:22:36.109Z - normal: Simulator: Destroy WebGLTexture (10) by GC
+2018-10-06T16:22:36.109Z - normal: Simulator: Destroy WebGLTexture (9) by GC
+2018-10-06T16:22:36.110Z - normal: Simulator: Destroy WebGLTexture (8) by GC
+2018-10-06T16:22:36.110Z - normal: Simulator: Destroy WebGLTexture (7) by GC
+2018-10-06T16:22:36.110Z - normal: Simulator: Destroy WebGLTexture (6) by GC
+2018-10-06T16:22:36.110Z - normal: Simulator: Destroy WebGLTexture (5) by GC
+2018-10-06T16:22:36.110Z - normal: Simulator: Destroy WebGLTexture (4) by GC
+2018-10-06T16:22:36.111Z - normal: Simulator: Destroy WebGLProgram (3) by GC
+2018-10-06T16:22:36.111Z - normal: Simulator: Destroy WebGLTexture (3) by GC
+2018-10-06T16:22:36.111Z - normal: Simulator: Destroy WebGLTexture (2) by GC
+2018-10-06T16:22:36.112Z - normal: Simulator: Destroy WebGLTexture (1) by GC
+2018-10-06T16:22:36.112Z - normal: Simulator: Destroy WebGLBuffer (4) by GC
+2018-10-06T16:22:36.112Z - normal: Simulator: Destroy WebGLBuffer (3) by GC
+2018-10-06T16:22:36.112Z - normal: Simulator: Destroy WebGLBuffer (2) by GC
+2018-10-06T16:22:36.112Z - normal: Simulator: Destroy WebGLBuffer (1) by GC
+2018-10-06T16:22:36.161Z - normal: Simulator: ScriptEngine::cleanup end ...
+2018-10-06T16:22:40.445Z - info: shutdown preview server

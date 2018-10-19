@@ -21,7 +21,7 @@
       }
     ],
     "_active": true,
-    "_level": 1,
+    "_level": 2,
     "_components": [
       {
         "__id__": 5
@@ -154,7 +154,7 @@
     "_useOriginalSize": false,
     "_string": "button",
     "_N$string": "button",
-    "_fontSize": 20,
+    "_fontSize": 30,
     "_lineHeight": 40,
     "_enableWrapText": false,
     "_N$file": null,
@@ -174,7 +174,7 @@
     "asset": {
       "__id__": 0
     },
-    "fileId": "f19mXzWfdPs5fl62op07TU",
+    "fileId": "36ZHDlcJlBaLdjtihVixHM",
     "sync": false
   },
   {
@@ -278,7 +278,7 @@
     "asset": {
       "__id__": 0
     },
-    "fileId": "fcAzUteWlNZautCBa+LwPS",
+    "fileId": "24/IV1AypN0oRSdak/vkVV",
     "sync": false
   }
 ]

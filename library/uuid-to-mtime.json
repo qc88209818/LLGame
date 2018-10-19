@@ -250,17 +250,17 @@
     "relativePath": "Scene"
   },
   "4734c20c-0db8-4eb2-92ea-e692f4d70934": {
-    "asset": 1538813135409,
+    "asset": 1538841100520,
     "meta": 1538813135408,
     "relativePath": "Script"
   },
   "2d2f792f-a40c-49bb-a189-ed176a246e49": {
-    "asset": 1538842392061,
-    "meta": 1538842392068,
+    "asset": 1539956846594,
+    "meta": 1539956846601,
     "relativePath": "Scene/helloworld.fire"
   },
   "7b81d4e8-ec84-4716-968d-500ac1d78a54": {
-    "asset": 1538813135409,
+    "asset": 1538841681860,
     "meta": 1538813135408,
     "relativePath": "Texture"
   },
@@ -274,11 +274,6 @@
     "meta": 1538813139204,
     "relativePath": "Texture/HelloWorld.png"
   },
-  "0979ea74-d427-42b3-b685-8ccb0e191273": {
-    "asset": 1538841648459,
-    "meta": 1538841648462,
-    "relativePath": "resources/prefab/btn.prefab"
-  },
   "470ce776-ed5a-4047-9cd4-3881f0bd4646": {
     "asset": 1538842745148,
     "meta": 1538841656275,
@@ -289,9 +284,14 @@
     "meta": 1538842735316,
     "relativePath": "resources"
   },
+  "3c7ce91f-16e9-4b86-be03-e8dc0f7332b0": {
+    "asset": 1539956037876,
+    "meta": 1539956037879,
+    "relativePath": "resources/prefab/btn.prefab"
+  },
   "280c3aec-6492-4a9d-9f51-a9b00b570b4a": {
-    "asset": 1538842916768,
-    "meta": 1538842924629,
+    "asset": 1539956868733,
+    "meta": 1539956871109,
     "relativePath": "Script/HelloWorld.js"
   }
 }
